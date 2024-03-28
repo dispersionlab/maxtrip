@@ -12,7 +12,9 @@ Current connections can be saved in text files via the ***staging*** module. The
 
 New target connection graphs can be established in the background without disrupting the current connections. This allows an operator to prepare future connections and push these to the live graph when desired.
 
-<img src="docs/staging.png" width="600">*Live connection graph (top) and staging connection graph (bottom)*
+<img src="docs/staging.png" width="600">
+
+*Live connection graph (top) and staging connection graph (bottom)*
 
 Staging walkthrough: [[YouTube]](https://www.youtube.com/watch?v=sYuNwJXmKe8)
 
