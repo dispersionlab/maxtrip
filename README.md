@@ -12,8 +12,7 @@ Current connections can be saved in text files via the ***staging*** module. The
 
 New target connection graphs can be established in the background without disrupting the current connections. This allows an operator to prepare future connections and push these to the live graph when desired.
 
-![staging](docs/staging.png)
-*Live connection graph (top) and staging connection graph (bottom)*
+<img src="docs/staging.png" width="600">*Live connection graph (top) and staging connection graph (bottom)*
 
 Staging walkthrough: [[YouTube]](https://www.youtube.com/watch?v=sYuNwJXmKe8)
 
@@ -21,8 +20,7 @@ Staging walkthrough: [[YouTube]](https://www.youtube.com/watch?v=sYuNwJXmKe8)
 
 Maxtrip includes a ***session recording*** module which can help capture input stereo singals from Jack into Max. Generate a desired amount of stereo recording strips and patch audio to a desired input audio device. 
 
-![recording](docs/recording.png)
-
+<img src="docs/recording.png" width="600">
 
 ## Dependencies
 
