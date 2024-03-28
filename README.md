@@ -2,8 +2,8 @@
 
 Maxtrip is a Jack audio control interface developed for Max. The patch allows you to run a Jack server, and connect to others over JackTrip via a shell in Max! Save and recall connections while staging your next setup, allowing for dynamic routing on the fly.
 
-[!NOTE]
-Maxtrip is currently only for macOS and assumes a coreaudio device is being used. This may be expanded in the future for more accessibility!
+>[!NOTE]
+>Maxtrip is currently only for macOS and assumes a coreaudio device is being used. This may be expanded in the future for more accessibility!
 
 ### Jack Control & Staging
 Maxtrip allows for full control over routing between inputs and outputs, and includes shortcuts for quick routing between connections. 
@@ -21,7 +21,7 @@ Staging walkthrough: [[YouTube]](https://www.youtube.com/watch?v=sYuNwJXmKe8)
 
 Maxtrip includes a ***session recording*** module which can help capture input stereo singals from Jack into Max. Generate a desired amount of stereo recording strips and patch audio to a desired input audio device. 
 
-![recording](docs/staging.png)
+![recording](docs/recording.png)
 
 
 ## Dependencies
